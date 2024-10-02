@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**ilCatta/ilCatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Andrea Cataldo!
+👨🏻‍💻 Mobile Engineer sharing about my journey and learnings in tech<br/>
+📖 Check out my personal website and blog at [www.andreacataldo.com](https://andreacataldo.com/)<br/>
+💭 Critical Thinking. Analyze, not accept. Examine, not ignore. Understand, not assume.<br/>
 
-Here are some ideas to get you started:
+### 💻 Projects
+🎨 Projects coming soon ...<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Open Source and Contributions
+🔗 [Provider](https://pub.dev/packages/provider)<br/>
+
+### 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
