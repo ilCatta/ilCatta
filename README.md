@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Andrea Cataldo!
 👨🏻‍💻 Mobile Engineer sharing about my journey and learnings in tech<br/>
-📖 Check out my personal website and blog at [www.andreacataldo.com](https://andreacataldo.com/)<br/>
+📖 Check out my personal [website and blog](https://andreacataldo.com)<br/>
 💭 Critical Thinking. Analyze, not accept. Examine, not ignore. Understand, not assume.<br/>
 
 ### 💻 Projects
