@@ -4,10 +4,10 @@
 📖 Check out my personal [website and blog](https://andreacataldo.com)<br/>
 💭 Critical Thinking. Analyze, not accept. Examine, not ignore. Understand, not assume.<br/>
 
-### 💻 Projects
-🎨 Projects coming soon ...<br/>
+### 🚀 Projects
+Projects coming soon ...<br/>
 
-### 💻 Open Source and Contributions
+### 🌍 Open Source and Contributions
 🔗 [Provider](https://pub.dev/packages/provider)<br/>
 
 ### 💻 Tech Stack
