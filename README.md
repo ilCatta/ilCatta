@@ -5,7 +5,8 @@
 💭 Critical Thinking. Analyze, not accept. Examine, not ignore. Understand, not assume.<br/>
 
 ### 🚀 Projects
-Projects coming soon ...<br/>
+[ShiftPro](https://andreacataldo.com/projects/shiftpro) (iOS and Android)<br/>
+App designed for shift workers who want to easily organize their day.<br/>
 
 ### 🌍 Open Source and Contributions
 🔗 [Provider](https://pub.dev/packages/provider)<br/>
