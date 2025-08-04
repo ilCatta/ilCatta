@@ -8,6 +8,9 @@
 [ShiftPro](https://andreacataldo.com/projects/shiftpro) (iOS and Android)<br/>
 App designed for shift workers who want to easily organize their day.<br/>
 
+[HabitPro](https://andreacataldo.com/projects/habitpro) (iOS and Android)<br/>
+App for building better habits and reaching your goals.<br/>
+
 ### 🌍 Open Source and Contributions
 🔗 [Provider](https://pub.dev/packages/provider)<br/>
 
